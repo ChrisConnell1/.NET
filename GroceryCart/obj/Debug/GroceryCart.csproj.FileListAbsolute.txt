@@ -1,0 +1,6 @@
+C:\Users\Student\Documents\Visual Studio 2015\Projects\GroceryCart\GroceryCart\bin\Debug\GroceryCart.exe.config
+C:\Users\Student\Documents\Visual Studio 2015\Projects\GroceryCart\GroceryCart\bin\Debug\GroceryCart.exe
+C:\Users\Student\Documents\Visual Studio 2015\Projects\GroceryCart\GroceryCart\bin\Debug\GroceryCart.pdb
+C:\Users\Student\Documents\Visual Studio 2015\Projects\GroceryCart\GroceryCart\obj\Debug\GroceryCart.csprojResolveAssemblyReference.cache
+C:\Users\Student\Documents\Visual Studio 2015\Projects\GroceryCart\GroceryCart\obj\Debug\GroceryCart.exe
+C:\Users\Student\Documents\Visual Studio 2015\Projects\GroceryCart\GroceryCart\obj\Debug\GroceryCart.pdb
